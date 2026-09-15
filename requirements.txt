@@ -1,0 +1,16 @@
+chromadb~=1.0.4
+jsonlines~=2.0.0
+requests~=2.32.3
+rdflib~=7.1.4
+sentence-transformers~=4.1.0
+matplotlib~=3.10.0
+networkx~=3.4.2
+openai~=1.74.0
+torch~=2.5.1
+tqdm~=4.67.1
+transformers~=4.46.3
+SPARQLWrapper~=2.0.0
+grpcio~=1.72.0
+python-dotenv~=1.0.1
+fastapi~=0.115.0
+uvicorn~=0.32.0
