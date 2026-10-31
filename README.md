@@ -4,6 +4,8 @@ Mitigating Hallucinations in Low-Resource Large Language Models: A Case Study in
 
 Yoan Salambashev, Melania Berbatova, Aleksandar Dimov - Faculty of Mathematics and Informatics, Sofia University "St. Kliment Ohridski"
 
+📑 **[Presentation slides (PDF)](paper_presentation/IntelSyst_Talk.pdf)** - the IntelSyst talk on this work.
+
 ## Abstract
 
 Large Language Models (LLMs) frequently generate non-factual information, a limitation known as
@@ -75,6 +77,7 @@ testset/                The 777-question benchmark, baseline outputs, and per-co
 dataset/                Source matriculation exam questions/answers (by year) and testset-building scripts
 raw_data/               Original matriculation exam PDFs and answer-key screenshots
 reasoning_bg_dataset/   Geography subset pulled from the external ReasoningBG dataset for overlap checks
+paper_presentation/     Slides (PDF) from the IntelSyst talk presenting the paper
 ```
 
 ## Setup
